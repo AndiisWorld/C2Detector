@@ -36,7 +36,7 @@ Kopyala
 Düzenle
 # Clone the repository
 git clone https://github.com/AndiisWorld/C2Detector.git
-cd C2_S-mulation
+cd C2Detector
 
 # Install dependencies (example)
 pip install -r requirements.txt
